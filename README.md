@@ -5,3 +5,5 @@ A little game that helps you build up your swedish vocabulary. The quizz game he
 The game is implemented in python using Tkinter.
 
 
+![alt text](https://github.com/karpadonet/swedish_flash_cards/blob/main/flashcard.PNG)
+
